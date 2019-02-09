@@ -14,7 +14,7 @@ public class MicrowaveProgram {
 
 	public static void main(String[] args) {
 		
-        double foodTime = ;
+        double foodTime = 0;
         
         // property
         double subTime = 1;
